@@ -208,3 +208,9 @@ nav ul li a:hover::after{
     margin-top: 10px;
     font-weight: 10;
 }
+.container-left{
+    flex-basis: 35%
+}
+.container-right{
+    flex-basis: 65%
+}
